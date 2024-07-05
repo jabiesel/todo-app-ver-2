@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#app {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.completed {
+  text-decoration: line-through;
+}
